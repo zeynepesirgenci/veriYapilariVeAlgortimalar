@@ -28,4 +28,14 @@ O(n^2)
 6. [8,11,12,16,21,22]
 ---
 - Big-O gösterimi:
-O(logn)
+O(nlogn)
+---
+# Binary Search Tree Project
+---
+- [7, 5, 1, 8, 3, 6, 0, 9, 4, 2], root değerine 5 diyelim:
+                   5
+            1             7
+         0     3       6     8
+             2   4             9
+
+
